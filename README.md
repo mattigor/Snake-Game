@@ -27,4 +27,4 @@ Jogo desenvolvido com o objetivo de pedir minha namorada em namoro e praticar HT
 
 ### Link para o projeto
 
-[#]("#")
+https://mattigor.github.io/Snake-Game/

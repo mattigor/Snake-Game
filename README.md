@@ -1,4 +1,4 @@
-## Projeto tela-de-login
+## Projeto Snake-Game
 
 > Status: Finalizado
 
